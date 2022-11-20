@@ -1,0 +1,11 @@
+body{
+    /* background-color: rgb(rgb(202, 202, 202)); */
+    background-color: #eeeeee;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
